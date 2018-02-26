@@ -1,0 +1,49 @@
+{
+  "id": "76059921-269d-4208-8e96-36da1d73b160",
+  "name": "where should i drop",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Tilted Towers",
+            "Haunted Hills",
+            "Junk Junction",
+            "Pleasant Park",
+            "Snobby Shores",
+            "Greasy Grove",
+            "Shifty Shafts",
+            "Flush Factory",
+            "Fatal Fields",
+            "Moisty Mire",
+            "Retail Row",
+            "Lonely Lodge",
+            "Dusty Depot",
+            "Salty Spring",
+            "Retail Row",
+            "Lonely Lodge",
+            "Tomato Town",
+            "Wailing Wood",
+            "Anarchy Acres",
+            "Loot Lake"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1519601629,
+  "fallbackIntent": false,
+  "events": []
+}
