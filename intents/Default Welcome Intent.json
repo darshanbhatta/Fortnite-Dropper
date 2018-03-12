@@ -14,11 +14,11 @@
           "type": 0,
           "lang": "en",
           "speech": [
-            "Hi! ask me where you want to drop",
-            "Hello! ask me where you want to drop",
-            "Good day! ask me where you want to drop",
-            "Greetings! ask me where you want to drop",
-            "Welcome !  ask me where you want to drop"
+            "Hi! I can decide where you want to drop.",
+            "Hello!  I can decide where you want to drop.",
+            "Good day!  I can decide where you want to drop.",
+            "Greetings!  I can decide where you want to drop.",
+            "Welcome !   I can decide where you want to drop."
           ]
         }
       ],
@@ -29,7 +29,7 @@
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1519601203,
+  "lastUpdate": 1520819631,
   "fallbackIntent": false,
   "events": [
     {

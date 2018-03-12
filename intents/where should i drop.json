@@ -32,7 +32,8 @@
             "Tomato Town",
             "Wailing Wood",
             "Anarchy Acres",
-            "Loot Lake"
+            "Loot Lake",
+            "Lucky Landing"
           ]
         }
       ],
@@ -43,7 +44,7 @@
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1519601629,
+  "lastUpdate": 1520819430,
   "fallbackIntent": false,
   "events": []
 }
