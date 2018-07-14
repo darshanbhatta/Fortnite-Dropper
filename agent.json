@@ -1,7 +1,8 @@
 {
-  "description": "Don\u0027t sit there wondering with where you should drop. Let Google Assistant tell you where to drop! Just ask the Fortnite drop helper where to drop.",
+  "description": "Don\u0027t sit there wondering with where you should drop. Let Google Assistant tell you where to the way!",
   "language": "en",
   "disableInteractionLogs": false,
+  "disableStackdriverLogs": true,
   "googleAssistant": {
     "googleAssistantCompatible": true,
     "welcomeIntentSignInRequired": false,
@@ -13,7 +14,8 @@
     ],
     "systemIntents": [],
     "endIntentIds": [
-      "76059921-269d-4208-8e96-36da1d73b160"
+      "76059921-269d-4208-8e96-36da1d73b160",
+      "96bbc292-3a58-40ad-b9f0-b824e9c11ee8"
     ],
     "oAuthLinking": {
       "required": false,
@@ -36,5 +38,6 @@
   "customClassifierMode": "use.after",
   "mlMinConfidence": 0.3,
   "supportedLanguages": [],
-  "onePlatformApiVersion": "v1legacy"
+  "onePlatformApiVersion": "v1legacy",
+  "analyzeQueryTextSentiment": false
 }

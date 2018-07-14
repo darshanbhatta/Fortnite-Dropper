@@ -23,6 +23,7 @@
             "Flush Factory",
             "Fatal Fields",
             "Paradise Pals",
+            "Paradise Palms",
             "Retail Row",
             "Lonely Lodge",
             "Dusty Divot",
@@ -43,7 +44,7 @@
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1525472348,
+  "lastUpdate": 1531541570,
   "fallbackIntent": false,
   "events": []
 }
