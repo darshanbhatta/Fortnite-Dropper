@@ -22,7 +22,7 @@
             "Shifty Shafts",
             "Flush Factory",
             "Fatal Fields",
-            "Moisty Mire",
+            "Paradise Palms",
             "Retail Row",
             "Lonely Lodge",
             "Dusty Divot",
@@ -31,7 +31,7 @@
             "Lonely Lodge",
             "Tomato Town",
             "Wailing Wood",
-            "Anarchy Acres",
+            "Lazy Links",
             "Loot Lake",
             "Lucky Landing",
             "Risky Reels"
@@ -45,7 +45,7 @@
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1525472348,
+  "lastUpdate": 1531541570,
   "fallbackIntent": false,
   "events": []
 }

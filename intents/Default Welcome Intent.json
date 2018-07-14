@@ -18,7 +18,7 @@
             "Hello!  I can decide where you want to drop.",
             "Good day!  I can decide where you want to drop.",
             "Greetings!  I can decide where you want to drop.",
-            "Welcome !   I can decide where you want to drop."
+            "Welcome ! I can decide where you want to drop."
           ]
         }
       ],
@@ -29,7 +29,7 @@
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1520819631,
+  "lastUpdate": 1531541609,
   "fallbackIntent": false,
   "events": [
     {

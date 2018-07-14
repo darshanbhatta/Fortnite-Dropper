@@ -1,0 +1,28 @@
+{
+  "id": "96bbc292-3a58-40ad-b9f0-b824e9c11ee8",
+  "name": "who is your creator",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Darshan Bhatta made this application as a way for users to pick a place to drop in Fortnite!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531542317,
+  "fallbackIntent": false,
+  "events": []
+}
