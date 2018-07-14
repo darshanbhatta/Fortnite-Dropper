@@ -22,12 +22,11 @@
             "Shifty Shafts",
             "Flush Factory",
             "Fatal Fields",
-            "Paradise Pals",
             "Paradise Palms",
-            "Retail Row",
             "Lonely Lodge",
             "Dusty Divot",
             "Salty Spring",
+            "Retail Row",
             "Tomato Town",
             "Wailing Wood",
             "Lazy Links",
@@ -44,7 +43,7 @@
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1531541570,
+  "lastUpdate": 1531543013,
   "fallbackIntent": false,
   "events": []
 }
