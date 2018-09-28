@@ -7,7 +7,24 @@
     {
       "resetContexts": false,
       "affectedContexts": [],
-      "parameters": [],
+      "parameters": [
+        {
+          "id": "d4fefb1a-6986-4b56-90b2-f54067a17b94",
+          "required": false,
+          "dataType": "@Drop",
+          "name": "Drop",
+          "value": "$Drop",
+          "isList": false
+        },
+        {
+          "id": "0e4bad9c-8a5f-4f3f-88dc-350e08a3d41a",
+          "required": false,
+          "dataType": "@sys.address",
+          "name": "address",
+          "value": "$address",
+          "isList": false
+        }
+      ],
       "messages": [
         {
           "type": 0,
@@ -43,7 +60,7 @@
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1531543013,
+  "lastUpdate": 1538175095,
   "fallbackIntent": false,
   "events": []
 }

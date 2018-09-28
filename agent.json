@@ -39,5 +39,8 @@
   "mlMinConfidence": 0.3,
   "supportedLanguages": [],
   "onePlatformApiVersion": "v1legacy",
-  "analyzeQueryTextSentiment": false
+  "analyzeQueryTextSentiment": false,
+  "enabledKnowledgeBaseNames": [],
+  "knowledgeServiceConfidenceAdjustment": -0.4,
+  "dialogBuilderMode": false
 }
