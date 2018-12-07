@@ -35,9 +35,7 @@
             "Junk Junction",
             "Pleasant Park",
             "Snobby Shores",
-            "Greasy Grove",
             "Shifty Shafts",
-            "Flush Factory",
             "Fatal Fields",
             "Paradise Palms",
             "Lonely Lodge",
@@ -45,11 +43,14 @@
             "Salty Spring",
             "Retail Row",
             "Tomato Temple",
-            "Wailing Wood",
+            "Wailing Woods",
             "Lazy Links",
-            "Leaky Lake",
+            "Loot Lake",
             "Lucky Landing",
-            "Risky Reels"
+            "Risky Reels",
+            "Polar Peak",
+            "Frosty Flights",
+            "Happy Hamlet"
           ]
         }
       ],
@@ -60,7 +61,7 @@
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1538175095,
+  "lastUpdate": 1544145539,
   "fallbackIntent": false,
   "events": []
 }
