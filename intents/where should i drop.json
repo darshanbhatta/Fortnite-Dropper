@@ -42,15 +42,15 @@
             "Dusty Divot",
             "Salty Spring",
             "Retail Row",
-            "Tomato Temple",
-            "Wailing Woods",
-            "Lazy Links",
+            "Lazy Lagoon",
             "Loot Lake",
             "Lucky Landing",
-            "Risky Reels",
+            "The Block",
             "Polar Peak",
             "Frosty Flights",
-            "Happy Hamlet"
+            "Happy Hamlet",
+            "Risky Reels",
+            "Sunny Steps"
           ]
         }
       ],
@@ -61,7 +61,7 @@
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1544145539,
+  "lastUpdate": 1551651196,
   "fallbackIntent": false,
   "events": []
 }
