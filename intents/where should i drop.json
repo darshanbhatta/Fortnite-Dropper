@@ -14,6 +14,10 @@
           "dataType": "@Drop",
           "name": "Drop",
           "value": "$Drop",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
           "isList": false
         },
         {
@@ -22,6 +26,10 @@
           "dataType": "@sys.address",
           "name": "address",
           "value": "$address",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
           "isList": false
         }
       ],
@@ -30,7 +38,7 @@
           "type": 0,
           "lang": "en",
           "speech": [
-            "Neo Tilted",
+            "Tilted Town",
             "Haunted Hills",
             "Junk Junction",
             "Pleasant Park",
@@ -39,7 +47,7 @@
             "Fatal Fields",
             "Paradise Palms",
             "Lonely Lodge",
-            "Dusty Divot",
+            "Dusty Depot",
             "Salty Spring",
             "Mega Mall",
             "Lazy Lagoon",
@@ -61,7 +69,6 @@
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1551651474,
   "fallbackIntent": false,
   "events": []
 }
