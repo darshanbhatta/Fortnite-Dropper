@@ -37,28 +37,21 @@
         {
           "type": 0,
           "lang": "en",
+          "condition": "",
           "speech": [
-            "Tilted Town",
-            "Haunted Hills",
-            "Junk Junction",
-            "Pleasant Park",
-            "Snobby Shores",
-            "Shifty Shafts",
-            "Fatal Fields",
-            "Paradise Palms",
-            "Lonely Lodge",
-            "Dusty Depot",
-            "Salty Spring",
-            "Mega Mall",
-            "Lazy Lagoon",
-            "Loot Lake",
-            "Lucky Landing",
-            "The Block",
-            "Polar Peak",
-            "Frosty Flights",
-            "Happy Hamlet",
-            "Sunny Steps",
-            "Pressure Plant"
+            "Sweaty Sands",
+            "Holly Hedges",
+            "Weeping Woods",
+            "Slurpy Swamp",
+            "Misty Meadows",
+            "Lazy Lake",
+            "Dirty Docks",
+            "Frenzy Farm",
+            "Steamy Stacks",
+            "Craggy Cliffs",
+            "Salty Springs",
+            "Retail Row",
+            "Pleasant Park"
           ]
         }
       ],
@@ -70,5 +63,8 @@
   "webhookUsed": false,
   "webhookForSlotFilling": false,
   "fallbackIntent": false,
-  "events": []
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
 }

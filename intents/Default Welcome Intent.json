@@ -13,6 +13,7 @@
         {
           "type": 0,
           "lang": "en",
+          "condition": "",
           "speech": [
             "Hi! I can decide where you want to drop.",
             "Hello!  I can decide where you want to drop.",
@@ -40,5 +41,8 @@
     {
       "name": "GOOGLE_ASSISTANT_WELCOME"
     }
-  ]
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
 }
