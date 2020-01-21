@@ -15,11 +15,11 @@
           "lang": "en",
           "condition": "",
           "speech": [
-            "Hi! I can decide where you want to drop.",
-            "Hello!  I can decide where you want to drop.",
-            "Good day!  I can decide where you want to drop.",
-            "Greetings!  I can decide where you want to drop.",
-            "Welcome ! I can decide where you want to drop."
+            "Hi! I can decide where you want to drop. Just say where can I drop?",
+            "Hello!  I can decide where you want to drop. Just say pick a spot",
+            "Good day!  I can decide where you want to drop. Just say pick a spot",
+            "Greetings!  I can decide where you want to drop. Just say where can I drop?",
+            "Welcome! I can decide where you want to drop. Just say pick a spot"
           ]
         }
       ],
