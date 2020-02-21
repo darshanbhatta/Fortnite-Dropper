@@ -9,7 +9,7 @@
       "affectedContexts": [],
       "parameters": [
         {
-          "id": "d4fefb1a-6986-4b56-90b2-f54067a17b94",
+          "id": "ccc4484a-407e-4d76-8d78-7b4a23c71a97",
           "required": false,
           "dataType": "@Drop",
           "name": "Drop",
@@ -21,7 +21,7 @@
           "isList": false
         },
         {
-          "id": "0e4bad9c-8a5f-4f3f-88dc-350e08a3d41a",
+          "id": "4fd2aa87-8086-4e42-91fe-d1d4d88a8017",
           "required": false,
           "dataType": "@sys.address",
           "name": "address",
@@ -51,7 +51,12 @@
             "Craggy Cliffs",
             "Salty Springs",
             "Retail Row",
-            "Pleasant Park"
+            "Pleasant Park",
+            "The Shark",
+            "The Yacht",
+            "The Agency",
+            "The Grotto",
+            "The Rig"
           ]
         }
       ],
