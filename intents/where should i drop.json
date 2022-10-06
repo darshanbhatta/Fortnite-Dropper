@@ -6,38 +6,44 @@
   "responses": [
     {
       "resetContexts": false,
+      "action": "",
       "affectedContexts": [],
       "parameters": [
         {
-          "id": "ccc4484a-407e-4d76-8d78-7b4a23c71a97",
+          "id": "f415a87a-18a6-43eb-b3c4-0d28169f42e5",
+          "name": "Drop",
           "required": false,
           "dataType": "@Drop",
-          "name": "Drop",
           "value": "$Drop",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
           "promptMessages": [],
           "noMatchPromptMessages": [],
           "noInputPromptMessages": [],
-          "outputDialogContexts": [],
-          "isList": false
+          "outputDialogContexts": []
         },
         {
-          "id": "4fd2aa87-8086-4e42-91fe-d1d4d88a8017",
+          "id": "a27c0eeb-5e52-49c5-b2aa-ffc21d90c83f",
+          "name": "address",
           "required": false,
           "dataType": "@sys.address",
-          "name": "address",
           "value": "$address",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
           "promptMessages": [],
           "noMatchPromptMessages": [],
           "noInputPromptMessages": [],
-          "outputDialogContexts": [],
-          "isList": false
+          "outputDialogContexts": []
         }
       ],
       "messages": [
         {
-          "type": 0,
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
           "lang": "en",
-          "condition": "",
           "speech": [
             "Logjam Lumberyard",
             "Sleepy Sound",
@@ -53,12 +59,12 @@
             "Rocky Reels",
             "The Joneses",
             "Condo Canyon",
-            "Chonker's Speedway",
+            "Chonker\u0027s Speedway",
             "Synapse Station"
-          ]
+          ],
+          "condition": ""
         }
       ],
-      "defaultResponsePlatforms": {},
       "speech": []
     }
   ],
@@ -69,5 +75,6 @@
   "events": [],
   "conditionalResponses": [],
   "condition": "",
-  "conditionalFollowupEvents": []
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
 }

@@ -4,6 +4,7 @@
   "shortDescription": "",
   "examples": "",
   "linkToDocs": "",
+  "displayName": "Fortnite-Dropper",
   "disableInteractionLogs": false,
   "disableStackdriverLogs": true,
   "googleAssistant": {
@@ -17,10 +18,7 @@
       }
     ],
     "systemIntents": [],
-    "endIntentIds": [
-      "76059921-269d-4208-8e96-36da1d73b160",
-      "96bbc292-3a58-40ad-b9f0-b824e9c11ee8"
-    ],
+    "endIntentIds": [],
     "oAuthLinking": {
       "required": false,
       "providerId": "",
@@ -48,13 +46,15 @@
     "cloudFunctionsInitialized": false
   },
   "isPrivate": true,
-  "customClassifierMode": "use.after",
   "mlMinConfidence": 0.3,
   "supportedLanguages": [],
+  "enableOnePlatformApi": true,
   "onePlatformApiVersion": "v2",
+  "secondaryKey": "3167d1fc60984329a2aadcd14b83f292",
   "analyzeQueryTextSentiment": false,
   "enabledKnowledgeBaseNames": [],
   "knowledgeServiceConfidenceAdjustment": -0.4,
   "dialogBuilderMode": false,
-  "baseActionPackagesUrl": ""
+  "baseActionPackagesUrl": "",
+  "enableSpellCorrection": false
 }
