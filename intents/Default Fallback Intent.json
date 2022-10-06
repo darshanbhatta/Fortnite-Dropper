@@ -11,9 +11,10 @@
       "parameters": [],
       "messages": [
         {
-          "type": 0,
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
           "lang": "en",
-          "condition": "",
           "speech": [
             "I didn\u0027t get that. Can you say it again?",
             "I missed what you said. Say it again?",
@@ -27,10 +28,10 @@
             "Say that again?",
             "I didn\u0027t get that.",
             "I missed that."
-          ]
+          ],
+          "condition": ""
         }
       ],
-      "defaultResponsePlatforms": {},
       "speech": []
     }
   ],

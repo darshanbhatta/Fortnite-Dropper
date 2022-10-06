@@ -11,19 +11,20 @@
       "parameters": [],
       "messages": [
         {
-          "type": 0,
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
           "lang": "en",
-          "condition": "",
           "speech": [
             "Hi! I can decide where you want to drop. Just say where can I drop?",
             "Hello!  I can decide where you want to drop. Just say pick a spot",
             "Good day!  I can decide where you want to drop. Just say pick a spot",
             "Greetings!  I can decide where you want to drop. Just say where can I drop?",
             "Welcome! I can decide where you want to drop. Just say pick a spot"
-          ]
+          ],
+          "condition": ""
         }
       ],
-      "defaultResponsePlatforms": {},
       "speech": []
     }
   ],
@@ -34,9 +35,6 @@
   "events": [
     {
       "name": "WELCOME"
-    },
-    {
-      "name": "GOOGLE_ASSISTANT_WELCOME"
     },
     {
       "name": "GOOGLE_ASSISTANT_WELCOME"

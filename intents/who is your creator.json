@@ -6,17 +6,21 @@
   "responses": [
     {
       "resetContexts": false,
+      "action": "",
       "affectedContexts": [],
       "parameters": [],
       "messages": [
         {
-          "type": 0,
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
           "lang": "en",
-          "condition": "",
-          "speech": "Darshan Bhatta made this application as a way for users to pick a place to drop in Fortnite!"
+          "speech": [
+            "Darshan Bhatta made this application as a way for users to pick a place to drop in Fortnite!"
+          ],
+          "condition": ""
         }
       ],
-      "defaultResponsePlatforms": {},
       "speech": []
     }
   ],
@@ -27,5 +31,6 @@
   "events": [],
   "conditionalResponses": [],
   "condition": "",
-  "conditionalFollowupEvents": []
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
 }
